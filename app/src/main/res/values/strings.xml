@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">imageEdit</string>
+    <string name="select_image_result">Your image selecting result:</string>
+    <string name="download_image_result">Transforming result:</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_video">Forum</string>
+    <string name="tab_micro">Message</string>
+    <string name="tab_me">Account</string>
+</resources>
